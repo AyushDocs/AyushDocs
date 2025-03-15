@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdocs&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdocs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushdocs" alt="ayushdocs" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushdocs" alt="AyushDocs" /></a> </p>
+<p align="left"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="100"/> </p>
 - 📫 How to reach me **ayushalokdubey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
